@@ -1,0 +1,14 @@
+{
+    "name": "hakoiko-theme",
+    "title": "Hakoiko Theme",
+    "description": "Hakoiko Theme for Brackets. Inspired from tumblr.com HTML Editor",
+    "homepage": "",
+    "version": "0.0.1",
+    "author": "Suchan Kim <hakoiko@gmail.com> ",
+    "license": "MIT",
+    "theme": {
+        "file": "hakoiko.less",
+        "dark": true
+    },
+    "keywords": ["theme"]
+}

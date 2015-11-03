@@ -1,14 +1,25 @@
 {
-    "name": "hakoiko-syntax-theme",
-    "title": "Hakoiko Syntax Theme",
-    "description": "Hakoiko Theme for Brackets. Inspired from tumblr.com HTML Editor",
-    "homepage": "",
-    "version": "1.0.0",
-    "author": "Suchan Kim <hakoiko@gmail.com> ",
-    "license": "MIT",
-    "theme": {
-        "file": "hakoiko.less",
-        "dark": true
-    },
-    "keywords": ["theme"]
+	"name": "hakoiko-syntax-theme",
+	"title": "Hakoiko Syntax Theme",
+	"description": "Hakoiko Theme for Brackets. Inspired from tumblr.com HTML Editor",
+	"version": "1.0.0",
+
+	"author": {
+		"name" : "hakoiko",
+		"url" : "https://github.com/hakoiko"
+	},
+	"homepage" : "https://github.com/hakoiko/syntax-brackets-hakoiko",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hakoiko/syntax-brackets-hakoiko.git"
+	},
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=1.0.0"
+	  },
+	"theme": {
+		"file": "hakoiko.less",
+		"dark": true
+	},
+	"keywords": ["theme", "dark", "effect", "css", "javascript", "html"]
 }
